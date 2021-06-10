@@ -1,0 +1,65 @@
+baseurl: "/"
+title: Fouda
+theme: ghostwriter
+languageCode: en-us
+copyright: Henri Fouda
+pygmentsUseClasses: true
+pygmentsCodefences: true
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+
+author:
+  name: Henri Fouda
+  profile: ""
+
+taxonomies:
+  tag: tags
+
+params:
+  mainSections:
+    - poems
+  intro: true
+  headline: Fouda
+  description: Poems and musings
+  twitter: "https://twitter.com/henrifouda"
+  email: henri@fouda.com
+  opengraph: true
+  shareTwitter: true
+  rss: true
+  shareFacebook: true
+  shareLinkedIn: false
+  dateFormat: "Mon, Jan 2, 2006"
+  exponeaJsUrl: ""
+  exponeaTarget: ""
+  exponeaToken: ""
+  exponeaTrackVisits: false
+  readingTime: true
+  readingTimeText: "Estimated reading time:"
+
+permalinks:
+  poems: "/:filename/"
+  posts: "/:year/:month/:day/:filename/"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Poems
+      url: /poems/
+      weight: 2
+    - name: Blog
+      url: /posts/
+      weight: 3
+    - name: Projects
+      url: /projects/
+      weight: 4
+    - name: About
+      url: /pages/about/
+      weight: 5
