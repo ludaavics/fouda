@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://hfouda.netlify.app/"
 title: Fouda
 theme: ghostwriter
 languageCode: en-us
