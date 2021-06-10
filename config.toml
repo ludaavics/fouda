@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Fouda's Poems"
+theme = "ghostwriter"
