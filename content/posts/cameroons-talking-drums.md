@@ -1,5 +1,5 @@
 ---
-title: "Cameroons Talking Drums"
+title: "Cameroon's Talking Drums"
 description: " Ancient Precursors of the Internet and Social Media"
 date: 2017-05-25T21:34:49-04:00
 tags:

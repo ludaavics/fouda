@@ -1,5 +1,6 @@
 ---
 title: "In Defense of Gandhi"
+description: "Reassessing Gandhi While Misunderstanding Him"
 date: 2016-09-18T21:30:12-04:00
 tags:
   - Racism

@@ -1,5 +1,5 @@
 ---
-title: "Peace Security Africa"
+title: "A Simple Formula for Peace and Security Africa"
 date: 2017-12-06T21:38:01-04:00
 tags:
   - Infrastructure
@@ -17,7 +17,7 @@ An issue which must be at the top of the agenda of would-be-leaders is the lack 
 
 Given the choice, Africans will reward with their votes leaders who are able to deliver sustainable security. I believe such leaders foster adequate growth and equitable distribution of its fruits, now and in the future. Such growth is achieved only if politicians put infrastructure at the center of their economic programs.
 
-Unsecure, Poor and Unequal Africa:
+## Unsecure, Poor and Unequal Africa
 
 The idea of sustainable security in Africa is a wild dream given the nightmarish reports of civil wars, insurgencies, terrorism, poorly planned migrations, attacks on vulnerable segments of populations and environmental destruction. This year, so far, has followed a script all too familiar. Boko Haram attacks in West Central Africa; ISIS and other militant groups in Libya, Tunisia and Egypt; terrorism activity in Kenya; militants’ attacks in Somalia; violence on poor immigrants in South Africa, perpetual chaos in the Democratic Republic of Congo; coup and unrest in the Central African Republic...
 
