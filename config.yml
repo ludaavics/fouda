@@ -1,4 +1,4 @@
-baseurl: "https://hfouda.netlify.app/"
+baseurl: "https://henrifouda.com/"
 title: Fouda
 theme: ghostwriter
 languageCode: en-us
@@ -27,8 +27,7 @@ params:
   intro: true
   headline: Fouda
   description: Poems and musings
-  twitter: "https://twitter.com/henrifouda"
-  email: henri@fouda.com
+  email: hfoudaus@yahoo.com
   opengraph: true
   shareTwitter: true
   rss: true
