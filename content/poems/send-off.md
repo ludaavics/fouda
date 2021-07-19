@@ -1,6 +1,7 @@
 ---
 title: "Send Off"
 date: 2021-07-03T19:53:34-04:00
+author: "Henri Fouda"
 ---
 
 Since time is the substitute for God \

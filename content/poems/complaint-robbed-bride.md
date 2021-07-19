@@ -1,6 +1,7 @@
 ---
-title: "Complaint Robbed Bride"
+title: "Complaint of a robbed bride"
 date: 2021-07-19T16:07:49-04:00
+author: "Henri Fouda"
 draft: false
 ---
 

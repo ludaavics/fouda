@@ -1,6 +1,7 @@
 ---
 title: "Shot!"
 date: 2021-07-03T19:50:25-04:00
+author: "Henri Fouda"
 ---
 
 He was holding a gun\

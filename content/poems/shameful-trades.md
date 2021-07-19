@@ -1,6 +1,7 @@
 ---
 title: "Shameful Trades"
 date: 2021-04-05T20:41:38-04:00
+author: "Henri Fouda"
 ---
 
 _Shameful Trades is a poem in postmodern form for reprehensible acts as old as this country._
