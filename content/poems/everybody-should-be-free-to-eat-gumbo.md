@@ -1,6 +1,7 @@
 ---
 title: "Everybody Should Be Free to Eat Gumbo"
 date: 2021-07-03T19:41:18-04:00
+author: "Henri Fouda"
 ---
 
 He wants to eat gumbo,\

@@ -1,6 +1,7 @@
 ---
 title: "Slave Vespers"
 date: 2021-07-03T19:44:38-04:00
+author: "Henri Fouda"
 ---
 
 Every evening \

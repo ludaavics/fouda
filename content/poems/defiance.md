@@ -1,6 +1,7 @@
 ---
 title: "Defiance"
 date: 2021-07-03T19:50:58-04:00
+author: "Henri Fouda"
 ---
 
 God does not die \
