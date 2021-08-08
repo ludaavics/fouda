@@ -1,6 +1,6 @@
 ---
 title: "Good times"
-date: 2021-08-20T12:59:21-04:00
+date: 2021-08-02T12:59:21-04:00
 author: "Henri Fouda"
 tags:
 - covid
