@@ -1,6 +1,7 @@
 ---
 title: "Ithaca"
 date: 2021-07-03T19:49:49-04:00
+author: "Henri Fouda"
 ---
 
 Since you are leaving today\
