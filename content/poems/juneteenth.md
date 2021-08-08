@@ -3,7 +3,7 @@ title: "Juneteenth"
 date: 2021-07-20T15:42:21-04:00
 author: "Henri Fouda"
 tags:
-- Civil Rights
+- civil rights
 ---
 Long ago, wisemen\
 summoned a gift from haven,\
@@ -13,9 +13,9 @@ flowers were deemed rotten food.
 
 After years spent in quiet rage\
 a prophet reads the holy texts anew\
-licenses all to freelance. 
+licenses all to freelance.
 
 The road is windy that brings\
 good news to Galveston.\
 Let us sing.\
-Let us dance. 
+Let us dance.

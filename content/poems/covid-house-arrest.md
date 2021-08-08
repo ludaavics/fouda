@@ -36,4 +36,4 @@ No need to greet masked forms in hoodies\
 Elevators are awful places in Boston\
 No one misses watching their faux ceilings\
 We like our families\
-No comment on love I am still a quant 
+No comment on love I am still a quant

@@ -20,4 +20,4 @@ follow you fast\
 If you cannot see yours\
 You are in\
 dangerous denial\
-It is time to look for a friend 
+It is time to look for a friend

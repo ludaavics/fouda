@@ -3,7 +3,8 @@ title: "Time is a mystery"
 date: 2021-08-20T12:32:21-04:00
 author: "Henri Fouda"
 tags:
-- time, love
+- time
+- love
 ---
 Time runs\
 Toward uncertain futures.\
