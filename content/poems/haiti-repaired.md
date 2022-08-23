@@ -22,4 +22,4 @@ Haiti learns \
 Hard currency paid to France \
 
 The emerald island has no more trees \
-Poverty still kills the land \
+Poverty still kills the land

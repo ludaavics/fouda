@@ -17,4 +17,4 @@ To validate pains. \
 
 Only I understand. \
 Free and conscious, \
-I honor this gift with hope. \
+I honor this gift with hope.
